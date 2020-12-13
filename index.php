@@ -11,4 +11,6 @@ Template Name: top
   <p>制作のご依頼はいつでもどうぞ！</p>
 </div>
 
+<!-- test -->
+
 <?php get_footer(); ?>
